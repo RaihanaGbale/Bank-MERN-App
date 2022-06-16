@@ -1,0 +1,62 @@
+#main-links>a {
+    margin: 10px;
+    color: #34495e;
+}
+
+#main-links {
+    background-color: antiquewhite;
+    border: 5px outset red;
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
+* {
+    text-decoration: none;
+    font-family: 'Cinzel Decorative'
+}
+.operationsDesign{
+    border-radius: 2px;
+    border: 5px outset burlywood;
+    background-color: beige;
+    width: 500px;
+    margin: 1cm;
+}
+.categoryButton{
+    background-color: bisque;
+    margin: 1cm;
+}
+a {
+    cursor: pointer;
+    color: black;
+}
+
+.inputDesign{
+    margin: 3px;
+    padding: 1px;
+}
+.bodyContainer {
+    background-image: url(https://i.fbcd.co/products/original/6608b9ecff858d3b1ccb13ca4276eff237707584212c7a493fc2c031c18b2112.jpg);
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.buttons{
+    margin-left: auto;
+    margin-right: auto;
+}
+#withdrawButton {
+    background-color: rgba(255, 0, 0, 0.815);
+}
+
+#depositButton {
+    background-color: greenyellow;
+    margin: 1cm;
+}
